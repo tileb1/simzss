@@ -1,0 +1,29 @@
+{
+  "embed_dim": 768,
+  "custom_text": true,
+  "vision_cfg": {
+    "timm_model_name_nooverride": "vit_base_patch16_224.dino",
+    "denoiser_type": null,
+    "ours": true,
+    "image_size": 224,
+    "layers": 12,
+    "width": 768,
+    "patch_size": 16,
+    "num_heads": 12,
+    "mlp_ratio": 4,
+    "n_dense_cls": 0,
+    "init_values": 1.0,
+    "block_chunks": 0,
+    "num_register_tokens": 4
+  },
+  "text_cfg": {
+    "context_length": 77,
+    "vocab_size": 49408,
+    "width": 512,
+    "heads": 8,
+    "layers": 12,
+    "embed_cls": true,
+    "output_tokens": false,
+    "mask_type_text": "causal"
+  }
+}

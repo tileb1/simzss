@@ -1,0 +1,574 @@
+aeroplane
+air conditioner
+airplane
+ambulance
+american football
+animal
+antelope
+apparel
+apple
+arcade machine
+armchair
+ashcan
+asparagus
+avocado
+awning
+background
+backpack
+bag
+ball
+balloon
+banana
+banner
+bannister
+baozi
+bar
+barbell
+barrel
+base
+baseball
+baseball bat
+baseball glove
+basin
+basket
+basketball
+bathtub
+bear
+bed
+bed 
+bedclothes
+belt
+bench
+bicycle
+billiards
+binoculars
+bird
+blackboard
+blanket
+blender
+blind
+board eraser
+boat
+book
+bookcase
+booth
+boots
+bottle
+bow tie
+bowl
+box
+bracelet
+branch
+bread
+bridge
+briefcase
+broccoli
+broom
+brush
+bucket
+buffet
+building
+building other
+bulletin board
+bus
+bush
+butterfly
+cabbage
+cabinet
+cage
+cake
+calculator
+camel
+camera
+candle
+candy
+canned
+canopy
+car
+cardboard
+carpet
+carriage
+carrot
+case
+cat
+cd
+ceiling
+ceiling other
+ceiling tile
+cell phone
+cello
+chainsaw
+chair
+chandelier
+cheese
+cherry
+chest of drawers
+chicken
+chips
+chopping board
+chopsticks
+cigar
+cigarette
+cleaning products
+clock
+cloth
+clothes
+clouds
+coconut
+coffee machine
+coffee table
+column
+comb
+computer
+computer box
+converter
+conveyer belt
+cookies
+corn
+cosmetics
+cosmetics brush
+cosmetics mirror
+couch
+counter
+countertop
+cow
+crab
+cradle
+crane
+crosswalk sign
+crt screen
+cucumber
+cue
+cup
+cupboard
+curling
+curtain
+cushion
+cutting
+cymbal
+deer
+desk
+desk stuff
+dessert
+dining table
+dinning table
+dirt
+dirt track
+dishwasher
+dog
+dolphin
+donkey
+donut
+door
+door stuff
+drum
+drying machine
+duck
+dumbbell
+dumpling
+durian
+earphone
+earth
+egg
+egg tart
+eggplant
+electric drill
+elephant
+eraser
+escalator
+extension cord
+extractor
+eyeliner pencil
+fan
+faucet
+fence
+field
+fire extinguisher
+fire hydrant
+fire truck
+fireplace
+fishing rod
+flag
+flask
+floor
+floor marble
+floor other
+floor stone
+floor tile
+floor wood
+flower
+flute
+fog
+folder
+food
+food other
+fork
+formula 1
+fountain
+frame
+french
+french fries
+frisbee
+fruit
+furniture
+furniture other
+game board
+garlic
+gas stove
+giraffe
+glass
+glasses
+globe
+gloves
+goldfish
+golf ball
+golf club
+goose
+grandstand
+grape
+grapefruit
+grass
+gravel
+green beans
+green onion
+green vegetables
+ground
+ground other
+guitar
+gun
+hair drier
+hair dryer
+hamburger
+hamimelon
+hammer
+handbag
+hanger
+hat
+head phone
+heavy truck
+helicopter
+helmet
+high heels
+hill
+hockey stick
+hood
+horse
+hot dog
+hot-air balloon
+house
+hovel
+hoverboard
+hurdle
+ice cream
+induction cooker
+jellyfish
+jug
+kettle
+key
+keyboard
+kitchen island
+kite
+kiwi fruit
+knife
+ladder
+lake
+lamp
+land
+lantern
+laptop
+leather shoes
+leaves
+lemon
+lettuce
+lifesaver
+light
+lighter
+lion
+lipstick
+lobster
+luggage
+machinery vehicle
+mango
+marker
+mask
+mat
+meat ball
+medal
+megaphone
+metal
+microphone
+microwave
+minibike
+mirror
+mirror stuff
+modem
+monitor
+monkey
+mop
+moss
+motorbike
+motorcycle
+mountain
+mouse
+mud
+mushroom
+napkin
+necklace
+net
+nightstand
+noddles
+notepaper
+nuts
+okra
+onion
+orange
+other balls
+other fish
+other shoes
+ottoman
+oven
+oyster
+paddle
+paint brush
+painting
+palm
+papaya
+paper
+parking meter
+parrot
+pasta
+path
+pavement
+peach
+pear
+pen
+pencil
+pencil case
+penguin
+pepper
+person
+piano
+pickup truck
+picture
+pie
+pier
+pig
+pigeon
+pillow
+pineapple
+pizza
+plant
+plant other
+plastic
+plate
+platform
+playingfield
+plaything
+pliers
+plum
+poker card
+pole
+pomegranate
+pool table
+poster
+pot
+potato
+potted plant
+power outlet
+printer
+projector
+pumpkin
+purse
+rabbit
+radiator
+radish
+railing
+railroad
+recorder
+red cabbage
+refrigerator
+remote
+rice
+rice cooker
+rickshaw
+rider
+ring
+river
+road
+rock
+roof
+router
+rug
+ruler
+runway
+sailboat
+salad
+sand
+sandals
+sandwich
+satchel
+sausage
+saxophone
+scale
+scallop
+scissors
+sconce
+scooter
+screen
+screen door
+screwdriver
+sculpture
+sea
+seal
+seat
+sheep
+shelf
+shelves
+ship
+shovel
+shower
+showerhead
+shrimp
+side table
+sidewalk
+sign
+signboard
+sink
+skateboard
+skating and skiing shoes
+skiboard
+skis
+sky
+sky other
+skyscraper
+slide
+slippers
+sneakers
+snow
+snowboard
+soap
+soccer
+sofa
+solid
+solid other
+speaker
+speed limit sign
+spoon
+sports ball
+sports car
+spring rolls
+stage
+stairs
+stairway
+stapler
+steak
+step
+stone
+stool
+stop sign
+storage box
+stove
+straw
+strawberry
+street lights
+streetlight
+stroller
+structural
+structural other
+stuffed toy
+suitcase
+surfboard
+surveillance camera
+sushi
+suv
+swan
+swimming pool
+swing
+swivel chair
+table
+table tennis
+table tennis paddle
+tablet
+tangerine
+tank
+tape
+tape measure
+target
+tea pot
+teddy bear
+telephone
+television receiver
+tennis
+tennis racket
+tent
+terrain
+textile
+textile other
+tie
+tissue
+toaster
+toilet
+toilet paper
+toiletry
+tomato
+tong
+toothbrush
+towel
+tower
+track
+trade name
+traffic cone
+traffic light
+traffic sign
+train
+trash bin can
+tray
+treadmill
+tree
+tricycle
+tripod
+trolley
+trombone
+trophy
+truck
+trumpet
+tuba
+tv
+tvmonitor
+umbrella
+urinal
+van
+vase
+vegetable
+vegetation
+violin
+volleyball
+wall
+wall brick
+wall concrete
+wall other
+wall panel
+wall stone
+wall tile
+wall wood
+wallet
+wardrobe
+washer
+washing machine
+watch
+water
+water other
+waterdrops
+waterfall
+watermelon
+wheelchair
+whiteboard
+wild bird
+window
+window blind
+window other
+windowpane
+wine glass
+wood
+yak
+zebra
